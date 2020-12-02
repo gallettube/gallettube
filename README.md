@@ -1,7 +1,7 @@
 # Hello, my name is Jon Galletero
 ### Batura Mobile Solution Android Project Manager 
 
-![https://github.com/gallettube](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+<!-- ![https://github.com/gallettube](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)-->
 
 I'm a professional software developer and project manager.
 
@@ -30,13 +30,13 @@ And more...
 ## Find me at:
 
 [![YouTube](https://neilpatel.com/wp-content/uploads/2015/09/youtube.png)](https://youtube.com/14gallet4)
-[![Twitch]()](https://twitch.tv/mouredev)
+[![Twitch](https://i.pinimg.com/originals/06/74/32/06743224945a6b170cf1ace85fdfa7d3.png)](https://twitch.tv/mouredev)
 </br>
-[![Twitter]()](https://twitter.com/gallettube)
-[![Instagram]()](https://instagram.com/_galletero_)
-[![Facebook]()](https://facebook.com/jongalletero)
+[![Twitter](https://i.pinimg.com/originals/bc/a5/73/bca57360fe71be869f11aea6e4d52f49.png)](https://twitter.com/gallettube)
+[![Instagram](https://cnet2.cbsistatic.com/img/AbNmCFpEhPUmAXcUJ3NejM1jcvs=/1200x630/2016/05/11/e8686b45-d244-4cd5-9c03-7fec1bbb19bb/instagram-nuevo-logo.png)](https://instagram.com/_galletero_)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/1024px-Facebook.svg.png)](https://facebook.com/jongalletero)
 </br>
-[![LinkedIn]()](https://www.linkedin.com/in/jongalletero)
+[![LinkedIn](https://katteand.co/wp-content/uploads/2019/11/linkedin-logo.png)](https://www.linkedin.com/in/jongalletero)
 
 <!--
 ## Some YouTube videos:
