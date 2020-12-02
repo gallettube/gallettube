@@ -81,4 +81,4 @@ And more...
 
 ## Contact me:
 </br>
-[![Email](https://yt3.ggpht.com/rS5r6-xXchXmLA26vZl07p5f_iGc-G67KtNB_b8x0RYd_DmD4XR4k1oS5yMPBkfT6ADnLXhaGYo=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](mailto:jongalletero@gmail.com)
+[![Email](https://cdn.iconscout.com/icon/free/png-256/apple-mail-493152.png)](mailto:jongalletero@gmail.com)
