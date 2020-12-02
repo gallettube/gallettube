@@ -80,5 +80,4 @@ And more...
 -->
 
 ## Contact me:
-</br>
 [![Email](https://cdn.iconscout.com/icon/free/png-256/apple-mail-493152.png)](mailto:jongalletero@gmail.com)
